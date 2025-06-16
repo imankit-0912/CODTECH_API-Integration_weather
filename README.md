@@ -1,9 +1,22 @@
 # CODTECH_API-Integration_weather
-Develop a webpage that fetches and display data from a public API (e.g, Weather, News). Deliverable: A Responsive Webpage with API Data Dynamically Loaded and Display.
 
+*COMPANY*: CODTECH IT SOLUTIONS
 
----
+*NAME*: ANKIT KUMAR KARN
 
+*INTERN ID*: CT04DN529
+
+*DOMAIN*: FULL STACK WEB DEVELOPMENT
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+-------------------------------------------------------------
+> CODTECH_API-Integration_weather
+-------------------------------------------------------------
+> Develop a webpage that fetches and display data from a public API (e.g, Weather, News). Deliverable: A Responsive Webpage with API Data Dynamically Loaded and Display.
+-------------------------------------------------------------
 # 🌦️ CODTECH\_API-Integration\_Weather
 
 A simple, responsive weather web application that fetches and displays real-time weather data using a public weather API. Built as part of the **CODTECH Internship**, this project demonstrates front-end API integration, dynamic content loading, and responsive design principles.
